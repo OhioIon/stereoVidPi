@@ -1,1 +1,7 @@
 stereoVid.pro.user
+*.o
+Makefile
+.qmake.stash
+moc_*.cpp
+moc_*.h
+stereoVidPi
