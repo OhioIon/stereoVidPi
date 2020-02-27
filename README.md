@@ -12,7 +12,7 @@ Displays two analog video streams on Oculus Rift CV1 connected to Raspberry Pi 4
 - Execute the following commands
 
 ```shell
-sudo apt install qt5-default qtmultimedia5-dev
+sudo apt install qt5-default qtmultimedia5-dev libqt5multimedia5-plugins
 git clone --recurse-submodules https://github.com/OhioIon/stereoVidPi
 cd stereoVidPi
 qmake
